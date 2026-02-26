@@ -25,7 +25,7 @@ class _UploadImageState extends State<UploadImage>
   Widget build(BuildContext context) {
     return Scaffold
       (
-        appBar: AppBar(title: Text("Upload Data"),),
+        appBar: AppBar(title: Text("Upload Data1"),),
         body: Center
           (
             child: Column
